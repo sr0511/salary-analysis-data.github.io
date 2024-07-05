@@ -1,5 +1,7 @@
 # Salary Analysis Dashboard
 
+Dashboard Link: https://app.powerbi.com/groups/me/reports/b7aea0a6-4680-4448-beee-905a5f0c4a75/14582563a58710fcf6ea?experience=power-bi
+
 Data field salary analysis reviews pay trends across roles, experience levels, locations, industries, and education to identify patterns and disparities.
 
 1. Salary Distribution: Identifying the overall Max, Min and Avg salary.
